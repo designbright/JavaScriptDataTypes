@@ -1,27 +1,28 @@
-# JavaScriptDataTypes
-
-## JavaScript Primitive Data Types
+# Introduction to JavaScript Primitive Data Types
 
 Data types are used to optimize the data that a variable can contain. Understanding primitive data types is a basic building block of when learning JavaScript
 
-There are two categories of data types
+### There are two categories of data types
 1. Primitives
 2. Objects
 
 There are five primitive types:
 1. **string**
-- Example: "hello there!", 'hello there'
+  * Example: "hello there!", 'hello there'
 
 2. **number**
-- Example: 1, 200, 3.14159
+  * Example: 1, 200, 3.14159
 
 3. **boolean**
-- Example: true, false
+  * Example: true, false
+  * Booleans are used in control structures like conditional statements
+
+
 4. **undefined**
   * Example: undefined is the default value for any variable that has been declared but has not been assigned a value
 
 5. **null**
-- null is a representation of the intentional absence of any object value. Often used to indicate that a variable should hold a value and doesn't
+  * null is a representation of the intentional absence of any object value. Often used to indicate that a variable should hold a value and doesn't
 
 ## Getting Started
 

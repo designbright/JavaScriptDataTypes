@@ -16,6 +16,7 @@ There are five primitive types:
 3. boolean
 - Example: true, false
 4. undefined
+- Example: undefined is the default value for any variable that has been declared but has not been assigned a value
 5. null
 
 ## Getting Started

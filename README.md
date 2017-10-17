@@ -1,5 +1,23 @@
 # JavaScriptDataTypes
 
+## JavaScript Primitive Data Types
+
+There are two categories of data types
+1. Primitives
+2. Objects
+
+There are five primitive types:
+1. string
+- Example: "hello there!", 'hello there'
+
+2. number
+- Example: 1, 200, 3.14159
+
+3. boolean
+- Example: true, false
+4. undefined
+5. null
+
 ## Getting Started
 
 ### Create a new project directory with an index.html and main.js file

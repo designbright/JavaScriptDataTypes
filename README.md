@@ -2,6 +2,8 @@
 
 ## JavaScript Primitive Data Types
 
+Data types are used to optimize the data that a variable can contain. Understanding primitive data types is a basic building block of when learning JavaScript
+
 There are two categories of data types
 1. Primitives
 2. Objects
@@ -18,6 +20,7 @@ There are five primitive types:
 4. undefined
 - Example: undefined is the default value for any variable that has been declared but has not been assigned a value
 5. null
+- null is a representation of the intentional absence of any object value. Often used to indicate that a variable should hold a value and doesn't
 
 ## Getting Started
 
@@ -25,7 +28,7 @@ There are five primitive types:
 ### Link your main.js file with your index.html file by adding <script src="main.js"></script> just before the /body tag in the index.html file
 
 
-Create and assign variable for all JavaScript data types
+Create and assign a variable for all JavaScript data types
 
 You should console.log the typeof each variable like below and discuss the results.
 

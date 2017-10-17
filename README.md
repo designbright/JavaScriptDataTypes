@@ -24,16 +24,13 @@ There are five primitive types:
 
 ## Getting Started
 
-### Create a new project directory with an index.html and main.js file
-### Link your main.js file with your index.html file by adding <script src="main.js"></script> just before the /body tag in the index.html file
-
-
-Create and assign a variable for all JavaScript data types
-
-You should console.log the typeof each variable like below and discuss the results.
+1. Create a new project directory with an index.html and main.js file
+2. Link your main.js file with your index.html file by adding <script src="main.js"></script> just before the /body tag in the index.html file
+3. Create and assign a variable for all JavaScript data types in the main.js file
+4. You should console.log the typeof each variable like the example below
 
 let x = 'Sally Smith';
 console.log(typeof x);
 
-Mutate each variable and console.log typeof each
-Perform mathematical operations using mixed data types and console.log typeof each
+5. Mutate each variable and console.log typeof each
+6. Perform mathematical operations using mixed data types and console.log typeof each

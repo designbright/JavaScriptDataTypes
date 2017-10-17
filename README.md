@@ -9,17 +9,18 @@ There are two categories of data types
 2. Objects
 
 There are five primitive types:
-1. string
+1. **string**
 - Example: "hello there!", 'hello there'
 
-2. number
+2. **number**
 - Example: 1, 200, 3.14159
 
-3. boolean
+3. **boolean**
 - Example: true, false
-4. undefined
-- Example: undefined is the default value for any variable that has been declared but has not been assigned a value
-5. null
+4. **undefined**
+  * Example: undefined is the default value for any variable that has been declared but has not been assigned a value
+
+5. **null**
 - null is a representation of the intentional absence of any object value. Often used to indicate that a variable should hold a value and doesn't
 
 ## Getting Started
